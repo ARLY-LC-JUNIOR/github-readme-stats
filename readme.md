@@ -312,6 +312,7 @@ Here is a list of all available locales:
 | `cs` | Czech |
 | `nl` | Dutch |
 | `en` | English |
+| `fil` | Filipino |
 | `fi` | Finnish |
 | `fr` | French |
 | `de` | German |
@@ -321,6 +322,7 @@ Here is a list of all available locales:
 | Code | Locale |
 | --- | --- |
 | `el` | Greek |
+| `he` | Hebrew |
 | `hi` | Hindi |
 | `hu` | Hungarian |
 | `id` | Indonesian |
